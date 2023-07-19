@@ -15,6 +15,13 @@ python3 -m pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/
 ## 3. 运行
 python3 ./main.py
 
-# 使用注意
-点击Go按钮后会有5秒的输入等待，然后才会自动进行输入
+## 4. 浏览器访问 
+
+127.0.0.1:5000
+<img width="1032" alt="image" src="https://github.com/wper-golo/AutoKeyBoardTyper/assets/77011000/ac53d0cb-aee1-4a91-8717-107f4ef86d20">
+
+## 5. 输入
+在浏览器页面框框中输入想要输入的内容
+
+## 6. 点击Go按钮，等待5秒，自动输入
 <img width="911" alt="image" src="https://github.com/wper-golo/AutoKeyBoardTyper/assets/77011000/b0dc0756-300b-417f-80c6-00075be1fec7">
