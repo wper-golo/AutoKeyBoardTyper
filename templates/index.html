@@ -1,0 +1,22 @@
+<form method="POST" action="/keyboard">
+  <textarea name="text" rows="5" cols="60"></textarea>
+  <input type="submit" value="Go">
+</form>
+
+<h3>History:</h3>
+<div>
+{% for item in history %}
+  {{ item }}<br>
+{% endfor %}
+</div>
+
+<style>
+textarea {
+  font-size: 16px;
+}
+
+div {
+  font-size: 14px;
+  line-height: 1.5;
+}
+</style>
