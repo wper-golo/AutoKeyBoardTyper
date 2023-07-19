@@ -13,11 +13,14 @@ python3 -m pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/
 ```
 
 ## 3. 运行
+
+```bash
 python3 ./main.py
+```
 
 ## 4. 浏览器访问 
 
-127.0.0.1:5000
+[127.0.0.1:5000](http://127.0.0.1:5000)
 <img width="1032" alt="image" src="https://github.com/wper-golo/AutoKeyBoardTyper/assets/77011000/ac53d0cb-aee1-4a91-8717-107f4ef86d20">
 
 ## 5. 输入
